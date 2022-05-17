@@ -1,0 +1,9 @@
+c:\users\ronald\documents\visual studio 2012\Projects\CalculadoraCS4\CalculadoraCS4\bin\Debug\CalculadoraCS4.exe.config
+c:\users\ronald\documents\visual studio 2012\Projects\CalculadoraCS4\CalculadoraCS4\bin\Debug\CalculadoraCS4.exe
+c:\users\ronald\documents\visual studio 2012\Projects\CalculadoraCS4\CalculadoraCS4\bin\Debug\CalculadoraCS4.pdb
+c:\users\ronald\documents\visual studio 2012\Projects\CalculadoraCS4\CalculadoraCS4\obj\Debug\CalculadoraCS4.csprojResolveAssemblyReference.cache
+c:\users\ronald\documents\visual studio 2012\Projects\CalculadoraCS4\CalculadoraCS4\obj\Debug\CalculadoraCS4.Form1.resources
+c:\users\ronald\documents\visual studio 2012\Projects\CalculadoraCS4\CalculadoraCS4\obj\Debug\CalculadoraCS4.Properties.Resources.resources
+c:\users\ronald\documents\visual studio 2012\Projects\CalculadoraCS4\CalculadoraCS4\obj\Debug\CalculadoraCS4.csproj.GenerateResource.Cache
+c:\users\ronald\documents\visual studio 2012\Projects\CalculadoraCS4\CalculadoraCS4\obj\Debug\CalculadoraCS4.exe
+c:\users\ronald\documents\visual studio 2012\Projects\CalculadoraCS4\CalculadoraCS4\obj\Debug\CalculadoraCS4.pdb
