@@ -1,0 +1,10 @@
+c:\users\ronald\documents\visual studio 2012\Projects\CalculadoraFS1\CalculadoraFS1\bin\Debug\CalculadoraFS1.exe.config
+c:\users\ronald\documents\visual studio 2012\Projects\CalculadoraFS1\CalculadoraFS1\bin\Debug\CalculadoraFS1.XML
+c:\users\ronald\documents\visual studio 2012\Projects\CalculadoraFS1\CalculadoraFS1\bin\Debug\CalculadoraFS1.exe
+c:\users\ronald\documents\visual studio 2012\Projects\CalculadoraFS1\CalculadoraFS1\bin\Debug\CalculadoraFS1.pdb
+c:\users\ronald\documents\visual studio 2012\Projects\CalculadoraFS1\CalculadoraFS1\bin\Debug\FSharp.Core.dll
+c:\users\ronald\documents\visual studio 2012\Projects\CalculadoraFS1\CalculadoraFS1\bin\Debug\FSharp.Core.xml
+c:\users\ronald\documents\visual studio 2012\Projects\CalculadoraFS1\CalculadoraFS1\bin\Debug\es\FSharp.Core.resources.dll
+c:\users\ronald\documents\visual studio 2012\Projects\CalculadoraFS1\CalculadoraFS1\obj\Debug\CalculadoraFS1.fsprojResolveAssemblyReference.cache
+c:\users\ronald\documents\visual studio 2012\Projects\CalculadoraFS1\CalculadoraFS1\obj\Debug\CalculadoraFS1.exe
+c:\users\ronald\documents\visual studio 2012\Projects\CalculadoraFS1\CalculadoraFS1\obj\Debug\CalculadoraFS1.pdb
